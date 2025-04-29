@@ -1,3 +1,6 @@
 .env
 .idea/
+.idea/inspectionProfiles/Project_Default.xml
 .venv/
+.idea/.gitignore
+.idea/GoogleAgentSample.iml
